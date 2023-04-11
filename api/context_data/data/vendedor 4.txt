@@ -1,0 +1,15 @@
+Vendedor: Hola, ¿cómo estás? ¿Qué tal te fue en tu búsqueda de casa?
+
+Vendedor: ¡Excelente! Me alegro de que hayas encontrado lo que buscabas. ¿Qué te gustó de esta casa en particular?
+
+Vendedor: Genial. Esta es una excelente propiedad que ha atraído a varios compradores interesados. ¿Estás seguro de que quieres seguir adelante con la compra?
+
+Vendedor: Perfecto. Te guiaré a través del proceso de compra y te aseguraré que todo esté en orden. ¿Tienes un agente inmobiliario que te represente en la transacción?
+
+Vendedor: Claro, conozco a un excelente agente que puede ayudarte con la transacción. ¿Te gustaría que te ponga en contacto con él?
+
+Vendedor: Lo siguiente es hacer una oferta formal en la propiedad. Te proporcionaré todos los documentos necesarios y te guiaré a través del proceso. ¿Cuánto estás dispuesto a ofrecer por la propiedad?
+
+Vendedor: Entendido, eso suena bien. Te ayudaré a preparar una oferta sólida y presentarla al vendedor. ¿Hay alguna otra cosa que necesites de mi parte?
+
+Vendedor: ¡De nada! Si tienes alguna otra pregunta o necesitas ayuda en cualquier momento, no dudes en contactarme. ¡Estoy aquí para ayudarte a lograr la casa de tus sueños!

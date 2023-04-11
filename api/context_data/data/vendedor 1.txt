@@ -1,0 +1,15 @@
+Vendedor: Hola, buenos días. ¿En qué puedo ayudarte hoy?
+
+Vendedor: Sí, tenemos varias propiedades disponibles en esta área. ¿Qué tipo de propiedad estás buscando?
+
+Vendedor: Perfecto, tengo una propiedad que podría interesarte. Es una casa de 3 habitaciones y 2 baños con un gran jardín trasero. ¿Te gustaría verla?
+
+Vendedor: Por supuesto. ¿Qué día y hora te viene bien?
+
+Vendedor: Genial, te lo agendo. ¿Hay alguna otra característica que estés buscando en una propiedad?
+
+Vendedor: Entendido. Esta propiedad se encuentra a pocos minutos de una excelente escuela y hay muchas tiendas y restaurantes en la zona. Creo que te encantará.
+
+Vendedor: El precio de venta es de $XXX,XXX. ¿Te gustaría que te enviara más información sobre esta propiedad?
+
+Vendedor: Perfecto, enviaré la información a tu correo electrónico. Y si tienes alguna otra pregunta o necesitas ayuda en algo, no dudes en contactarme.

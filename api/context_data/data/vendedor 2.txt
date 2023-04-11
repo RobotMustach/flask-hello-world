@@ -1,0 +1,13 @@
+Vendedor: Hola, ¿cómo estás? ¿En qué puedo ayudarte hoy?
+
+Vendedor: Entiendo, tenemos algunas propiedades que podrían interesarte. ¿Qué tipo de casa estás buscando?
+
+Vendedor: Muy bien, tenemos una propiedad que podría encajar perfectamente con tus necesidades. Es una casa de 4 habitaciones y 3 baños con un garaje para dos autos y se encuentra en una zona muy segura y tranquila. ¿Te gustaría verla?
+
+Vendedor: Por supuesto, ¿qué día y hora te viene bien?
+
+Vendedor: Perfecto, te lo agendo. ¿Hay algo más que estés buscando en una propiedad?
+
+Vendedor: Entendido, esta propiedad tiene un gran patio trasero que seguro le encantará a tu familia. Además, cuenta con una amplia sala de estar y una cocina abierta que es perfecta para pasar tiempo juntos. ¿Te gustaría recibir más información sobre esta propiedad?
+
+Vendedor: Claro, enviaré la información a tu correo electrónico. Si tienes alguna otra pregunta o necesitas ayuda en algo, no dudes en contactarme.
